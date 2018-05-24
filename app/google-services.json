@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "562325574620",
+    "firebase_url": "https://fortnite-callouts.firebaseio.com",
+    "project_id": "fortnite-callouts",
+    "storage_bucket": "fortnite-callouts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562325574620:android:729ed69271bbad79",
+        "android_client_info": {
+          "package_name": "com.herman.brandon.fortnitecallouts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562325574620-q3mtif766s29bbir69gr2cj4psu59h27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.herman.brandon.fortnitecallouts",
+            "certificate_hash": "74a1028b01acfd038e4d557c458ddd5d43ebe47c"
+          }
+        },
+        {
+          "client_id": "562325574620-d56bhs5dav46a5u13njojc6it4vbvpvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbji6ssDki8TVP2xWihMN4zIiYqTq1h-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562325574620-d56bhs5dav46a5u13njojc6it4vbvpvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#434C3B</color>
+    <color name="colorPrimaryDark">#2A3228</color>
+    <color name="colorAccent">#F6C946</color>
+    <color name="xbox">#5dc21e</color>
+    <color name="ps4">#003791</color>
+    <color name="pc">#8B0000</color>
+    <color name="mobile">#8A2BE2</color>
+</resources>

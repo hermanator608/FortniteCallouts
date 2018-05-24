@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fortnite Callouts</string>
+    <string name="title_map">Map</string>
+    <string name="title_stats">Player Stats</string>
+    <string name="title_store">Store</string>
+    <string name="store_title">Store Information</string>
+    <string name="map_desc">Example command: "A1 to B2"</string>
+    <string name="travel_label">Travel Time: </string>
+</resources>
